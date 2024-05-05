@@ -1,7 +1,7 @@
 # SnakeGame
 #include <iostream>
 #include <conio.h>
-#include <windows>
+#include <windows.h>
 using namespace std;
 
 bool gameOver;
